@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**Aniketjha788/Aniketjha788** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Banner](your-banner-image-link)
 
-Here are some ideas to get you started:
+## I'm Aniket Jha 👩‍💻
+- 🔭 **Current Focus**: Building web apps with React and Node.js.
+- 🌱 **Learning**: Full Stack Development(MERN STACK DEVELOPMENT)
+- 💬 Ask me about **JavaScript, C++, or Frontend Development**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Tech Stack:
+<img src="https://cdn.jsdelivr.net/npm/simple-icons/icons/javascript.svg" width="40" height="40" alt="JavaScript"/>
+<img src="https://cdn.jsdelivr.net/npm/simple-icons/icons/python.svg" width="40" height="40" alt="Python"/>
+
+## 📊 GitHub Stats:
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aniketjha788&show_icons=true&theme=radical)
+
+
+## 📬 Let's Connect:
+- [Email](mailto:Aniketjha788@gmail.com)
+- [LinkedIn]https://www.linkedin.com/in/aniket-jha-51409a212/
