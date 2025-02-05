@@ -7,9 +7,6 @@
 - 🌱 **Learning**: Full Stack Development(MERN STACK DEVELOPMENT)
 - 💬 Ask me about **JavaScript, C++, or Frontend Development**.
 
-## 🔧 Tech Stack:
-<img src="https://cdn.jsdelivr.net/npm/simple-icons/icons/javascript.svg" width="40" height="40" alt="JavaScript"/>
-<img src="https://cdn.jsdelivr.net/npm/simple-icons/icons/python.svg" width="40" height="40" alt="Python"/>
 
 ## 📊 GitHub Stats:
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aniketjha788&show_icons=true&theme=radical)
