@@ -1,6 +1,6 @@
 # Hi there 👋
 
-![Banner](your-banner-image-link)
+![Banner](https://github.com/Aniketjha788/Aniketjha788/blob/main/Blue%20Beige%20Aesthetic%20Music%20Channel%20YouTube%20Banner.png)
 
 ## I'm Aniket Jha 👩‍💻
 - 🔭 **Current Focus**: Building web apps with React and Node.js.
