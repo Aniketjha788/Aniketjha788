@@ -5,7 +5,7 @@
 ## I'm Aniket Jha 👩‍💻
 - 🔭 **Current Focus**: Building web apps with React and Node.js.
 - 🌱 **Learning**: Full Stack Development(MERN STACK DEVELOPMENT)
-- 💬 Ask me about **JavaScript, C++, or Frontend Development**.
+- 💬 Ask me about **JavaScript, C++ and Frontend Development**.
 
 
 ## 📊 GitHub Stats:
